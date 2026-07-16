@@ -7,7 +7,7 @@
 
 Require: Nginx 1.29.2
 
-Test pass: 1.31.2
+Test pass: 1.31.3
 
 ### nginx.patch (Discontinued)
 * Add HTTP2 HPACK Encoding Support.
